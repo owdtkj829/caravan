@@ -189,3 +189,23 @@ footer{
 .footer-text{
 	color: #fff;
 }
+
+.social i{
+	color: black;
+}
+
+@meta screen and (max-width:1024px){
+	.social i{
+		width: 100%;
+	}
+}
+
+@meta screen and (max-width:768px){
+	.social i{
+		width: 100%;
+	}
+}
+
+@meta screen and (max-width:425px){
+	.
+}

@@ -56,3 +56,22 @@ main{
 	color: white;
 	padding: 3px;
 }
+
+@media screen and (max-width:768px) {
+  
+    main{
+      width: 90%;
+  	  margin: 50px;
+    }
+    .s1 {
+      width: 90%;
+      margin-bottom: 20px;
+      margin-right: 0;
+    }
+    .s1:last-shild{
+    	margin: 0;
+    }
+    .i1{
+
+    }
+}
